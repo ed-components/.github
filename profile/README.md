@@ -1,12 +1,9 @@
-## Hi there 👋
+## Welcome to `ed-components` organization 👋
 
-<!--
+🙋‍♀️ `ed-components` is an organisation created to allow to create and share _easily_ open-education resources in various formats(html, pdf, doc, odt...)
 
-**Here are some ideas to get you started:**
+🌈 Currently in a development phase you can support our project by:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- starring on github: [ed-components library](https://github.com/ed-components/ed-components) or [ed-components organization](https://github.com/ed-components).
+- Open issues and pull requests on the repositories to help this tools to fit your needs.
+- Help by funding the project by [funding](https://github.com/sponsors/benabel) me.
